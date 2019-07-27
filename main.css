@@ -1,0 +1,155 @@
+ h1 {
+  font-size: 50px;
+  font-weight: 600;
+  text-align: center;
+  padding-top: 100px;
+  color: white;
+}
+h2 {
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+}
+h3 {
+  font-size: 20px;
+  font-weight: 400;
+  text-align: center;
+}
+p {
+  font-size: 20px;
+  font-weight: 200;
+  text-align: center;
+  color: grey;
+}
+
+body {
+  position: absolute; top: 0; left: 0;
+    background-image: url("Sunset-Cold-MountainsCropped.jpg");
+    background-repeat: no-repeat;
+  text-align: center;
+  font-family: 'Noto Sans TC', sans-serif;
+}
+header {
+  position:  relative;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  color: white;
+  font-family: 'Cabin', Open Sans;
+}
+.container {
+  width:100%;
+  background-color: black;
+}
+li {
+  color: black;
+}
+
+article {
+  text-align: center;
+  font-size: 20px;
+}
+.contentOne {
+  font-size: 20px;
+  text-align: left;
+  font-weight: 500;
+  padding-left: 10px;
+  padding-right: 10px
+}
+.secondBlock {
+  color: #474c51;
+}
+.thirdBlock {
+  align-items: center;
+  width: 60%;
+  margin-left: 20%;
+  margin-bottom: 2%;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.fourthBlock {
+  align-items: center;
+  width: 60%;
+  margin-left: 20%;
+  margin-bottom: 2%;
+  padding-left: 10px;
+  padding-right: 10px;
+  color:  #36454f;
+}
+.fifthBlock {
+  align-items: center;
+  width: 60%;
+  margin-left: 20%;
+  margin-bottom: 2%;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #36454f;
+}
+.footer {
+  text-align: center;
+}
+.contentSmall {
+  font-size: 20px;
+  text-align: left;
+  font-weight: 500;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: grey;
+}
+.lastBlock {
+  align-items: center;
+  width: 60%;
+  margin-left: 20%;
+  margin-bottom: 2%;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: grey;
+}
+.black-text{
+  margin: 0 auto; 
+  text-align: center;
+  font-size: 20px;
+}
+.centerBottomLinks{
+  margin:0 auto;
+  text-align: center;
+}
+.projectsTitle {
+  padding-top: 30px;
+  color: #474c51;
+  padding-bottom: 40px;
+}
+a {
+  color: grey;
+}
+.darkGrey {
+  color: #36454f;
+}
+.MitchPhoto {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius:50%;
+  overflow:hidden;
+}
+.resume {
+  padding-bottom: 100px;
+  color: white;
+}
+footer {
+  color: grey;
+}
+.footerClass {
+  color: grey;
+}
+.vocation {
+  color: white;
+}
+.aboutMe {
+  color: #474c51;
+  font-size: 30px;
+  font-weight: 600;
+}
+.allInclusive {
+  background-color: #D4D5D6;
+}
