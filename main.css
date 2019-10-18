@@ -27,7 +27,7 @@ body {
     background-image: url("MountainsAsBkGRNDCropped.jpg");
     background-repeat: no-repeat;
   text-align: center;
-  font-family: 'Noto Sans TC', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 header {
   position:  relative;
@@ -36,7 +36,7 @@ header {
   background-position: center;
   text-align: center;
   color: white;
-  font-family: 'Cabin', Open Sans;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 .container {
   width:100%;
